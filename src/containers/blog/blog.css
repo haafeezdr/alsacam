@@ -7,14 +7,14 @@
     width: 100%;
     text-align: left;
 
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
 }
 
 .gpt3__blog-heading h1 {
-    font-size: 62px;
-    line-height: 75px;
+    font-size: 52px;
+    line-height: 65px;
     font-family: var(--font-family);
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .gpt3__blog-container {
